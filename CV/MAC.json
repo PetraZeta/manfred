@@ -11,8 +11,8 @@
       "title": "Desarrolladora Web Frontend",
       "description": "Soy una programadora Full Stack especializada en Frontend, apasionada por crear interfaces de usuario atractivas y funcionales. Mi objetivo es impulsar el éxito de proyectos desafiantes, colaborar efectivamente en equipos multidisciplinarios y mantenerme actualizada en las últimas tendencias tecnológicas, incluyendo la inteligencia artificial.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/16/8b5d5b4a-8c79-40a2-8651-91c8eb138b66_linkedin-photo-46250.linkedin-photo-46250",
-        "alt": "24/01/16/8b5d5b4a-8c79-40a2-8651-91c8eb138b66_linkedin-photo-46250.linkedin-photo-46250"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/16/e25c1609-682b-47d1-8bd7-a60aa10c08d0_linkedin-photo-46250.linkedin-photo-46250",
+        "alt": "24/01/16/e25c1609-682b-47d1-8bd7-a60aa10c08d0_linkedin-photo-46250.linkedin-photo-46250"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJYyNaSeHfFQ0RIxx06K-7kAY)",
@@ -25,123 +25,6 @@
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/ines-garcia-zapata-0b64b3175"
-      }
-    ]
-  },
-  "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Malt",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/16/24651481-a17b-4727-be7a-ed0b49dfe92d_linkedin-photo-46250.linkedin-photo-46250",
-            "alt": "24/01/16/24651481-a17b-4727-be7a-ed0b49dfe92d_linkedin-photo-46250.linkedin-photo-46250"
-          }
-        },
-        "roles": [
-          {
-            "name": "Freelance",
-            "startDate": "2023-10-01",
-            "challenges": [
-              {
-                "description": "Skills: Visual Studio · Compromiso con el trabajo · React.js · Node.js · Git · Educación continua"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "NTT DATA",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/16/586418fa-20c5-4496-80f3-26b5232c226c_linkedin-photo-46250.linkedin-photo-46250",
-            "alt": "24/01/16/586418fa-20c5-4496-80f3-26b5232c226c_linkedin-photo-46250.linkedin-photo-46250"
-          }
-        },
-        "roles": [
-          {
-            "name": "Programador full stack",
-            "startDate": "2022-10-01",
-            "finishDate": "2023-10-31",
-            "challenges": [
-              {
-                "description": "desarrollador web junior full stack"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Career Break"
-        },
-        "roles": [
-          {
-            "name": "Career transition",
-            "startDate": "2021-09-01",
-            "finishDate": "2023-10-31",
-            "challenges": [
-              {
-                "description": "A la espera de realizar las practicas del ciclo de grado superior de Desarrollo de Aplicaciones Web. De septiembre a diciembre de 2022"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Mobile Oeste Telecomunicaciones"
-        },
-        "roles": [
-          {
-            "name": "Directora de canal indirecto y expansión en Mobile Oeste Telecomunicaciones",
-            "startDate": "2020-01-01",
-            "finishDate": "2021-09-30",
-            "challenges": [
-              {
-                "description": "Comercial ejecutiva de Orange empresas, PYMES, grandes cuentas y administraciones."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Cicla tu ropa"
-        },
-        "roles": [
-          {
-            "name": "Directora de gestión comercial",
-            "startDate": "2018-03-01",
-            "finishDate": "2021-09-30",
-            "challenges": [
-              {
-                "description": "Tienda de ropa multimarca, hecha a mano y segunda mano, todo en un espacio junto a la exhibición y venta de esculturas y artesanías locales"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Décimas",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/16/9d0e4446-e732-4968-9b1e-0cb759e78257_linkedin-photo-46250.linkedin-photo-46250",
-            "alt": "24/01/16/9d0e4446-e732-4968-9b1e-0cb759e78257_linkedin-photo-46250.linkedin-photo-46250"
-          }
-        },
-        "roles": [
-          {
-            "name": "Encargado de personal",
-            "startDate": "2000-08-01",
-            "finishDate": "2015-09-30",
-            "challenges": [
-              {
-                "description": "Skills: Compromiso con el trabajo · Trabajo en equipo · Venta directa"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
