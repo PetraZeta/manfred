@@ -11,8 +11,8 @@
       "title": "Desarrolladora Web Frontend",
       "description": "Soy una programadora Full Stack especializada en Frontend, apasionada por crear interfaces de usuario atractivas y funcionales. Mi objetivo es impulsar el éxito de proyectos desafiantes, colaborar efectivamente en equipos multidisciplinarios y mantenerme actualizada en las últimas tendencias tecnológicas, incluyendo la inteligencia artificial.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/16/8fafc230-c880-4ed0-98f1-79896c343ac5_linkedin-photo-46250.linkedin-photo-46250",
-        "alt": "24/01/16/8fafc230-c880-4ed0-98f1-79896c343ac5_linkedin-photo-46250.linkedin-photo-46250"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/16/20af8803-096a-4d01-b464-d37639172f5b_linkedin-photo-46250.linkedin-photo-46250",
+        "alt": "24/01/16/20af8803-096a-4d01-b464-d37639172f5b_linkedin-photo-46250.linkedin-photo-46250"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJYyNaSeHfFQ0RIxx06K-7kAY)",
@@ -34,8 +34,8 @@
         "organization": {
           "name": "Malt",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/16/d0dc0091-8f06-41fd-b725-e0626614c560_linkedin-photo-46250.linkedin-photo-46250",
-            "alt": "24/01/16/d0dc0091-8f06-41fd-b725-e0626614c560_linkedin-photo-46250.linkedin-photo-46250"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/16/5584b6eb-5106-4a65-8ce5-a2b406f79fbd_linkedin-photo-46250.linkedin-photo-46250",
+            "alt": "24/01/16/5584b6eb-5106-4a65-8ce5-a2b406f79fbd_linkedin-photo-46250.linkedin-photo-46250"
           }
         },
         "roles": [
@@ -54,8 +54,8 @@
         "organization": {
           "name": "NTT DATA",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/16/2b75119f-0eba-4745-b27e-0d38683192c2_linkedin-photo-46250.linkedin-photo-46250",
-            "alt": "24/01/16/2b75119f-0eba-4745-b27e-0d38683192c2_linkedin-photo-46250.linkedin-photo-46250"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/16/5483ef8c-eb19-4893-8419-7f258fb3c239_linkedin-photo-46250.linkedin-photo-46250",
+            "alt": "24/01/16/5483ef8c-eb19-4893-8419-7f258fb3c239_linkedin-photo-46250.linkedin-photo-46250"
           }
         },
         "roles": [
@@ -126,8 +126,8 @@
         "organization": {
           "name": "Décimas",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/16/3d80819e-6b0d-4622-a85c-b01fce7bdb3c_linkedin-photo-46250.linkedin-photo-46250",
-            "alt": "24/01/16/3d80819e-6b0d-4622-a85c-b01fce7bdb3c_linkedin-photo-46250.linkedin-photo-46250"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/16/bdef700b-e0df-4e84-9f7a-2bd2809da8bf_linkedin-photo-46250.linkedin-photo-46250",
+            "alt": "24/01/16/bdef700b-e0df-4e84-9f7a-2bd2809da8bf_linkedin-photo-46250.linkedin-photo-46250"
           }
         },
         "roles": [
@@ -197,7 +197,7 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -277,6 +277,14 @@
         },
         "finishDate": "2022-01-01"
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
@@ -286,9 +294,6 @@
           "URL": "https://linkedin.com/in/ines-garcia-zapata-0b64b3175",
           "type": "linkedin"
         }
-      ],
-      "contactMails": [
-        "inesgarza01@gmail.com"
       ]
     },
     "preferences": {
