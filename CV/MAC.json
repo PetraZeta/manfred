@@ -227,6 +227,12 @@
       },
       {
         "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "React",
           "type": "technology"
         }
@@ -240,6 +246,12 @@
       {
         "skill": {
           "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VanillaJS",
           "type": "technology"
         }
       },
@@ -349,7 +361,8 @@
       ],
       "preferredRoles": [
         "Backend Developer",
-        "Frontend Developer"
+        "Frontend Developer",
+        "Product Design (UI/UX)"
       ]
     },
     "status": "searchingActively",
@@ -367,7 +380,19 @@
         "type": "technology"
       },
       {
+        "name": "Figma",
+        "type": "technology"
+      },
+      {
         "name": "HTML",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "VanillaJS",
         "type": "technology"
       }
     ],
