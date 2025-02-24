@@ -8,8 +8,8 @@
     "profile": {
       "name": "Ines",
       "surnames": "Garcia Zapata",
-      "title": "Desarrolladora Web Frontend",
-      "description": "Soy una programadora Full Stack especializada en Frontend, apasionada por crear interfaces de usuario atractivas y funcionales. Mi objetivo es impulsar el éxito de proyectos desafiantes, colaborar efectivamente en equipos multidisciplinarios y mantenerme actualizada en las últimas tendencias tecnológicas, incluyendo la inteligencia artificial.",
+      "title": "Full Stack Developer & UX/UI Designer 🦄 | Open to Work | Freelance🏋️‍♀️  🚀 Creando soluciones digitales completas, de principio a fin. Siempre lista para nuevos retos.",
+      "description": "Soy una programadora Full Stack especializada en Frontend, autodidacta, curiosa y maker. Mi trayectoria profesional se basa en el trato al público y en el sector comercial. Durante la crisis del COVID-19, me reciclé y formé en Desarrollo de Aplicaciones Web (DAW) y UX/UI. Mi objetivo ahora es impulsar el éxito de proyectos desafiantes en el desarrollo web.  En mi año de experiencia laboral y colaboración con otros juniors a través de AUJ, he demostrado mi capacidad para trabajar eficazmente en equipos multidisciplinarios. Estoy abierta a trabajar en proyectos que mejoren el mundo, siempre con un enfoque cordial y colaborativo.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/16/20af8803-096a-4d01-b464-d37639172f5b_linkedin-photo-46250.linkedin-photo-46250",
         "alt": "24/01/16/20af8803-096a-4d01-b464-d37639172f5b_linkedin-photo-46250.linkedin-photo-46250"
@@ -32,11 +32,24 @@
     "jobs": [
       {
         "organization": {
-          "name": "Malt",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/16/5584b6eb-5106-4a65-8ce5-a2b406f79fbd_linkedin-photo-46250.linkedin-photo-46250",
-            "alt": "24/01/16/5584b6eb-5106-4a65-8ce5-a2b406f79fbd_linkedin-photo-46250.linkedin-photo-46250"
+          "name": "Adopta un junior"
+        },
+        "roles": [
+          {
+            "name": "Gestor de proyecto y responsable de Scrum",
+            "startDate": "2024-06-01",
+            "finishDate": "2024-11-01",
+            "challenges": [
+              {
+                "description": "Voluntariado en el equipo de desarrollo de la web de Adopta un junior donde colaboro como scrum master del equipo de backend"
+              }
+            ]
           }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Malt"
         },
         "roles": [
           {
@@ -44,7 +57,7 @@
             "startDate": "2023-10-01",
             "challenges": [
               {
-                "description": "Skills: Visual Studio · Compromiso con el trabajo · React.js · Node.js · Git · Educación continua"
+                "description": "Desarrollo de Proyectos Web:  Colabore en la creación y ejecución de proyectos web para clientes de diversos sectores, desde la conceptualización hasta la implementación. Utilicé tecnologías como HTML, CSS, JavaScript, y frameworks como Bootstrap y jQuery para crear sitios web dinámicos y funcionales.  Soporte y Mantenimiento:  Brindé asistencia técnica continua y mantenimiento a los sitios web existentes, asegurando su funcionamiento óptimo y la resolución eficiente de problemas. Formación y Mentoría:  Impartí clases y ofrecí orientación a estudiantes del ciclo de grado superior de Desarrollo de Aplicaciones Web (DAW), compartiendo mis conocimientos y experiencias para ayudarles a desarrollar sus habilidades en el campo del desarrollo web."
               }
             ]
           }
@@ -52,37 +65,16 @@
       },
       {
         "organization": {
-          "name": "NTT DATA",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/16/5483ef8c-eb19-4893-8419-7f258fb3c239_linkedin-photo-46250.linkedin-photo-46250",
-            "alt": "24/01/16/5483ef8c-eb19-4893-8419-7f258fb3c239_linkedin-photo-46250.linkedin-photo-46250"
-          }
+          "name": "NTT DATA"
         },
         "roles": [
           {
             "name": "Programador full stack",
             "startDate": "2022-10-01",
-            "finishDate": "2023-10-31",
+            "finishDate": "2023-10-01",
             "challenges": [
               {
-                "description": "desarrollador web junior full stack"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Career Break"
-        },
-        "roles": [
-          {
-            "name": "Career transition",
-            "startDate": "2021-09-01",
-            "finishDate": "2023-10-31",
-            "challenges": [
-              {
-                "description": "A la espera de realizar las practicas del ciclo de grado superior de Desarrollo de Aplicaciones Web. De septiembre a diciembre de 2022"
+                "description": "Desarrollador Frontend:  Responsable de la creación y mantenimiento de interfaces de usuario utilizando HTML5, CSS y JavaScript. Maquetado de un diseño y desarrollo de aplicaciones web interactivas para Iberdrola. Desarrollador Backend: Mantenimiento de funcionalidades back-end utilizando Java, asegurando la integridad y el rendimiento de las aplicaciones. Gestión de Bases de Datos: Consulta y modificación de bases de datos SQL para garantizar la eficiencia y la seguridad de los datos almacenados. Migración de Aplicaciones:  Participé en la migración exitosa de una aplicación nativa a la plataforma Liferay, adaptando y optimizando la aplicación para su nuevo entorno. Desarrollador Backend:  Mantenimiento de funcionalidades back-end utilizando Java, asegurando la integridad y el rendimiento de las aplicaciones. Gestión de Bases de Datos:  Consulta y modificación de bases de datos SQL para garantizar la eficiencia y la seguridad de los datos almacenados. Migración de Aplicaciones:  Participé en la migración exitosa de una aplicación nativa a la plataforma Liferay, adaptando y optimizando la aplicación para su nuevo entorno."
               }
             ]
           }
@@ -96,10 +88,10 @@
           {
             "name": "Directora de canal indirecto y expansión en Mobile Oeste Telecomunicaciones",
             "startDate": "2020-01-01",
-            "finishDate": "2021-09-30",
+            "finishDate": "2021-09-01",
             "challenges": [
               {
-                "description": "Comercial ejecutiva de Orange empresas, PYMES, grandes cuentas y administraciones."
+                "description": "Prospección de Clientes: Identifiqué y contacté con clientes potenciales en el mercado empresarial y de Pymes en Extremadura, estableciendo relaciones sólidas y duraderas. Asesoramiento Personalizado: Analicé las necesidades de comunicación de cada cliente y proporcioné soluciones a medida que mejoran su eficiencia y productividad. Gestión de Cuentas: Mantuve una cartera de clientes existente, asegurando su satisfacción continua y brindando soporte técnico y atención personalizada. Cumplimiento de Objetivos de Ventas: Superé regularmente los objetivos de ventas establecidos, contribuyendo al crecimiento y éxito de la empresa en el mercado."
               }
             ]
           }
@@ -111,12 +103,12 @@
         },
         "roles": [
           {
-            "name": "Directora de gestión comercial",
+            "name": "Experiencia Emprendedora",
             "startDate": "2018-03-01",
-            "finishDate": "2021-09-30",
+            "finishDate": "2021-09-01",
             "challenges": [
               {
-                "description": "Tienda de ropa multimarca, hecha a mano y segunda mano, todo en un espacio junto a la exhibición y venta de esculturas y artesanías locales"
+                "description": "Planificación y Ejecución:  Desarrollé y ejecuté estrategias de negocio para el funcionamiento diario de la tienda, incluyendo la gestión del inventario, la atención al cliente y la organización de eventos especiales para promocionar los productos locales. Gestión de Relaciones:  Establecí relaciones sólidas con proveedores de moda y artesanos locales, garantizando una oferta diversa y de alta calidad para los clientes.  Promoción y Marketing:  Implementé campañas de marketing creativas y efectivas, utilizando redes sociales, eventos locales y colaboraciones con artistas para aumentar la visibilidad y el reconocimiento de la marca.  Servicio al Cliente:  Prioricé la satisfacción del cliente y proporcioné un servicio personalizado, asegurándome de que cada cliente tuviera una experiencia positiva y única en la tienda.  Desarrollo Comunitario:  Fomenté el sentido de comunidad al colaborar con otros negocios locales, participar en eventos comunitarios y apoyar iniciativas de desarrollo económico local."
               }
             ]
           }
@@ -124,20 +116,16 @@
       },
       {
         "organization": {
-          "name": "Décimas",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/16/bdef700b-e0df-4e84-9f7a-2bd2809da8bf_linkedin-photo-46250.linkedin-photo-46250",
-            "alt": "24/01/16/bdef700b-e0df-4e84-9f7a-2bd2809da8bf_linkedin-photo-46250.linkedin-photo-46250"
-          }
+          "name": "Décimas"
         },
         "roles": [
           {
-            "name": "Encargado de personal",
+            "name": "Especialista en ventas",
             "startDate": "2000-08-01",
-            "finishDate": "2015-09-30",
+            "finishDate": "2015-09-01",
             "challenges": [
               {
-                "description": "Skills: Compromiso con el trabajo · Trabajo en equipo · Venta directa"
+                "description": "Gestión de Empleados: A lo largo de mi trayectoria, asumí la responsabilidad de supervisar y liderar equipos de trabajo, proporcionando orientación, capacitación y apoyo para garantizar un ambiente de trabajo productivo y colaborativo. Operaciones del Almacén: Desarrollé y ejecuté procesos eficientes para la gestión del almacén, incluyendo la recepción de mercancías, el control de inventario y la distribución de productos, asegurando la disponibilidad oportuna de los artículos y la optimización del espacio de almacenamiento. Ventas y Atención al Cliente: Implementé estrategias efectivas de ventas y atención al cliente, promoviendo la satisfacción del cliente y el cumplimiento de los objetivos de ventas. A través de un enfoque personalizado, me aseguré de que cada cliente recibiera una experiencia positiva y se sintiera valorado. Escaparatismo: Utilicé mi creatividad y habilidades estéticas para diseñar y mantener escaparates atractivos y llamativos, que capturaban la atención de los clientes y generaban interés en los productos destacados."
               }
             ]
           }
@@ -203,6 +191,12 @@
       },
       {
         "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Jira",
           "type": "technology"
         }
@@ -215,6 +209,12 @@
       },
       {
         "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "NodeJS",
           "type": "technology"
         }
@@ -222,6 +222,12 @@
       {
         "skill": {
           "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
           "type": "technology"
         }
       },
@@ -272,22 +278,92 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": " Aprende React JS desde Cero | +7 Proyectos reales, Desarrollo de aplicaciones web",
+        "name": " Aprende React JS desde Cero | +7 Proyectos reales",
         "startDate": "2022-07-01",
         "institution": {
           "name": "Udemy Alumni"
         },
-        "finishDate": "2022-08-31"
+        "finishDate": "2022-08-01"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Ciclo Formativo de Grado Superior, Desarrollo de aplicaciones web",
+        "name": "Bootcamp",
+        "startDate": "2024-01-01",
+        "institution": {
+          "name": "NEOLAND"
+        },
+        "finishDate": "2024-06-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Certificado profesional de Google Data Analytics",
+        "startDate": "2024-12-01",
+        "institution": {
+          "name": "Coursera"
+        },
+        "finishDate": "2025-02-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ciclo Formativo de Grado Superior",
         "startDate": "2020-01-01",
         "institution": {
           "name": "IES Ágora, Cáce"
         },
         "finishDate": "2022-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ciclo formativo de grado medio de Calado artístico",
+        "startDate": "2004-09-01",
+        "institution": {
+          "name": "Escuela de arte de Granada"
+        },
+        "finishDate": "2006-07-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Curso de especialización de Desarrollo de aplicaciones en lenguaje Python",
+        "startDate": "2024-11-01",
+        "institution": {
+          "name": "IES Suárez de Figueroa"
+        },
+        "finishDate": "2025-06-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Docencia de la formación para el empleo",
+        "startDate": "2024-09-01",
+        "institution": {
+          "name": "Grupo Aspasia"
+        },
+        "finishDate": "2024-12-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Estilismo de indumentaria",
+        "startDate": "2008-09-01",
+        "institution": {
+          "name": "Llotja – Escola d'Art i Superior de Disseny en Barcelona"
+        },
+        "finishDate": "2010-07-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "webinar Programación Python I",
+        "startDate": "2024-07-01",
+        "institution": {
+          "name": "Universidad de Extremadura"
+        },
+        "finishDate": "2024-08-01"
       }
     ],
     "softSkills": [
