@@ -25,6 +25,10 @@
       {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/ines-garzeta/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/PetraZeta"
       }
     ]
   },
@@ -393,6 +397,10 @@
         {
           "URL": "https://www.linkedin.com/in/ines-garzeta/",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/PetraZeta",
+          "type": "github"
         }
       ]
     },
