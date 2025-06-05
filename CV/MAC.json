@@ -32,7 +32,12 @@
       },
       {
         "type": "other",
-        "URL": "https://medium.com/@inesgarza01"
+        "URL": "https://medium.com/@inesgarza01",
+        "description": "Medium"
+      },
+      {
+        "type": "other",
+        "URL": "https://www.ciccla.es/"
       }
     ]
   },
